@@ -1112,7 +1112,7 @@ hr.clear {
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("/web/20190118165318im_/http://gigawatt.org/wp-content/themes/micro/assets/css/owl.video.play.png") no-repeat;
+  background: url("/wp-content/themes/micro/assets/css/owl.video.play.png") no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -1277,7 +1277,7 @@ hr.clear {
   padding: 40px 0; }
 
 .main-navigation .menu-toggle {
-  -webkit-mask: url(/web/20190118165318im_/http://gigawatt.org/wp-content/themes/micro/assets/images/menu-icon.svg) center/contain no-repeat;
+  -webkit-mask: url(/wp-content/themes/micro/assets/images/menu-icon.svg) center/contain no-repeat;
   height: 40px;
   width: 40px;
   background-color: #b2df82; }
@@ -1499,25 +1499,3 @@ select {
     color: #0f110c;
     padding: 8px;
     margin-bottom: 10px; }
-
-/*
-     FILE ARCHIVED ON 16:53:18 Jan 18, 2019 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:57:24 Nov 07, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 52.474
-  CDXLines.iter: 18.67 (3)
-  exclusion.robots.policy: 0.357
-  load_resource: 81.466
-  esindex: 0.015
-  PetaboxLoader3.resolve: 29.338
-  PetaboxLoader3.datanode: 39.679 (4)
-  exclusion.robots: 0.374
-  RedisCDXSource: 0.791
-  LoadShardBlock: 29.21 (3)
-*/
